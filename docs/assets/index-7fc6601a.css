@@ -1,0 +1,1 @@
+.main{background-color:bisque}.main__content{border:1px solid black;background-color:gray}.main__content h2{color:red}@media (min-width: 800px){.main__content{background-color:#00f}.main__content h2{color:#ff0;font-family:Courier New,Courier,monospace}}
